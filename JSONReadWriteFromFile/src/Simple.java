@@ -8,7 +8,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 
-public class Main {
+public class Simple {
 
 	public static void main(String[] args) throws FileNotFoundException, JSONException {
 		String jsonData = "";
